@@ -1,0 +1,11 @@
+#.vs folder
+.vs/
+
+#exes and related
+x64/Debug/Rasteriser.exe
+x64/Debug/Rasteriser.ilk
+x64/Debug/Rasteriser.pdb
+x64/Release/Rasteriser.exe
+x64/Release/Rasteriser.iobj
+x64/Release/Rasteriser.ipdb
+x64/Release/Rasteriser.pdb

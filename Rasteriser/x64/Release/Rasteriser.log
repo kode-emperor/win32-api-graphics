@@ -1,0 +1,18 @@
+﻿  AmbientLight.cpp
+  Bitmap.cpp
+  Camera.cpp
+  DirectionalLight.cpp
+  Framework.cpp
+  Matrix.cpp
+  MD2Loader.cpp
+  Model.cpp
+  PointLight.cpp
+  Polygon3D.cpp
+  Rasteriser.cpp
+c:\users\benji\documents\github\graphics-1-rasteriser\rasteriser\rasteriser.cpp(714): warning C4305: '=': truncation from 'double' to 'float'
+  Vector3D.cpp
+  Vertex.cpp
+  Generating code
+  All 650 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Rasteriser.vcxproj -> C:\Users\benji\Documents\GitHub\graphics-1-rasteriser\x64\Release\Rasteriser.exe
